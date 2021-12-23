@@ -1,0 +1,43 @@
+MAC2311:
+	x - LA#9 - 03/05/21
+	- MyLab - 03/09/21
+	x - 10 Notes - 03/08/21
+	- LA#10 - 03/10/21
+	- Exam#2 - 03/12/21
+ENC3249:
+	- Engage - 03/10/21
+	- Proposal Brainstrom - 03/12/21
+	
+COP3337:
+	- Midterm Review
+	- Programming Assignment#4 - 3/15/21
+PHY2048:
+	- lecture 3/3 - 3/7/21
+	- lecture 3/5 - 3/7/21
+	- MyLab - 03/12/21
+	- Exam - TBA
+PHY2048L:
+	x - Lab - 03/04/21
+UPE:
+	- Download Unity
+	- Check out tensorflow
+	- 2/23 AI meeting RSVP
+EXERCISES:
+	- bridges
+	- heel slides
+	- squeeze ball
+	- slide ball
+	- lateral leg lifts
+	- lift calf
+------------------------------------------------
+3/8/20 TODO:
+------------------------------------------------
+ENC3249:
+	
+COP3337:
+	
+PHY2048L:
+	x - Lab - 03/04/21
+MAC2311:
+	- MyLab - 03/09/21
+- SCHOLARSHIP FORM
